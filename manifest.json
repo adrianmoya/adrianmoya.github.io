@@ -1,0 +1,23 @@
+{
+  "short_name": "My PWA",
+  "name": "My PWA",
+  "icons": [
+    {
+      "src": "/img/mypwa-icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/mypwa-icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f67031",
+  "display": "standalone",
+  "theme_color": "#f67031",
+  "orientation": "portrait",
+  "gcm_sender_id": "482941778795",
+  "gcm_sender_id_comment": "Do not change the GCM Sender ID"
+}
